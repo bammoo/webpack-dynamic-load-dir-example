@@ -1,0 +1,1 @@
+module.exports = 'log from dynamic-files/aaa.js.'
